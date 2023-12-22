@@ -1,0 +1,9 @@
+.\ultrasonic_lcd.o: ultrasonic_lcd.c
+.\ultrasonic_lcd.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\ultrasonic_lcd.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\ultrasonic_lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\ultrasonic_lcd.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\ultrasonic_lcd.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\ultrasonic_lcd.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\ultrasonic_lcd.o: lcd.h
+.\ultrasonic_lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
